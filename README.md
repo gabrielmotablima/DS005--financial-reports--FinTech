@@ -1,4 +1,4 @@
-# 🎉 DS005 - Financial Reports Assistant (ACME)
+# 🎉 DS005 - Financial Reports Assistant (FinTech)
 
 ![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)
 ![Powered by Ollama](https://img.shields.io/badge/Powered%20by-Ollama-3b77fa)
@@ -12,9 +12,9 @@ An AI-powered assistant to retrieve and summarize critical information from comp
 
 # 🏢 Company History and Context
 
-**Acme Financial Solutions**, founded in 2005, is a financial consulting company specializing in corporate financial advisory, M&A due diligence, and investment risk analysis.
+Imagine a financial consulting company specializing in corporate financial advisory, M&A due diligence, and investment risk analysis.
 
-Over the past years, Acme faced a growing challenge:  
+Over the past years, this company faced a growing challenge:  
 With **hundreds of client companies filing thousands of pages** of 10-K reports annually,  
 their analysts spent **hundreds of hours manually reading** and extracting critical insights like:
 
@@ -37,7 +37,7 @@ their analysts spent **hundreds of hours manually reading** and extracting criti
 | Human errors and oversights | Compliance and investment risks |
 | No centralized knowledge base | Repetitive work across teams |
 
-Acme needed an intelligent solution to **speed up analysis, reduce costs, and deliver better results** to clients.
+They needed an intelligent solution to **speed up analysis, reduce costs, and deliver better results** to clients.
 
 ---
 
@@ -184,7 +184,7 @@ We built the **Financial Reports Assistant**:
 # 🎯 Conclusion
 
 The **Financial Reports Assistant** transforms financial report analysis from a slow, manual bottleneck into a fast, accurate, and scalable process —  
-**saving Acme Financial Solutions $50,000+ per year** and improving its competitive edge dramatically.
+**saving the FinTech $50,000+ per year** and improving its competitive edge dramatically.
 
 ✅ Modular  
 ✅ Cost-effective  
