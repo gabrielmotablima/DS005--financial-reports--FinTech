@@ -65,7 +65,7 @@ We built the **Financial Reports Assistant**:
 
 ---
 
-# 📑 README Organization
+# 📑 Documentation Structure
 
 | Section | Purpose |
 |:--------|:--------|
