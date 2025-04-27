@@ -1,6 +1,12 @@
-# 📄 Financial Reports Assistant
+# 🎉 DS005 - Financial Reports Assistant (ACME)
 
-> An AI-powered assistant to retrieve and summarize critical information from company financial filings (10-Ks), built using Retrieval-Augmented Generation (RAG), Ollama local LLMs, FAISS vector database, and Streamlit.
+![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)
+![Powered by Ollama](https://img.shields.io/badge/Powered%20by-Ollama-3b77fa)
+![Uses LangChain](https://img.shields.io/badge/Uses-LangChain-01b5a0)
+
+An AI-powered assistant to retrieve and summarize critical information from company financial filings (10-Ks), built using Retrieval-Augmented Generation (RAG), Ollama local LLMs, FAISS vector database, and Streamlit.
+
+![cover](images/cover.png)
 
 ---
 
