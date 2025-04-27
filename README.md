@@ -43,9 +43,11 @@ Acme needed an intelligent solution to **speed up analysis, reduce costs, and de
 
 # 🚀 Proposed Solution
 
+![usage](images/usage.png)
+
 We built the **Financial Reports Assistant**:
 
-- ✅ Upload financial reports (10-Ks) in bulk.
+- ✅ Upload financial reports (10-Ks) in bulk (e.g. [SEC EDGAR Annual Financial Filings of 2021](https://www.kaggle.com/datasets/pranjalverma08/sec-edgar-annual-financial-filings-2021)).
 - ✅ Automatically parse, chunk, and vectorize important sections (like Item 1, Item 1A, Item 7).
 - ✅ Allow analysts to **ask questions** (e.g., "What risks did Tesla highlight in 2021?") and get **instant summarized answers**.
 - ✅ Show **source documents** for auditability and compliance.
