@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Vector database files and folders
+vectorstore/*
+*.faiss
+*.pkl
+
+# Data folder
+data/*
+
+# .gitkeep
+!.gitkeep
